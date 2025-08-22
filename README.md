@@ -17,13 +17,13 @@ Analisis jaringan sosial merupakan cabang ilmu yang memfokuskan pada relasi dan 
 
 ## Pengajaran
 
-Berikut ini beberapa topik yang disajikan dalam kursus ini:
+Berikut ini beberapa topik yang disajikan dalam materi ini:
 
 - Dasar-dasar analisis jaringan sosial
 - Pengukuran sentralitas
 - Deteksi komunitas
 - Analisis jaringan multilayer
-- ... dan banyak lagi
+- Tantangan
 
 Anda dapat menemukan slide, catatan, dan bahan ajar lainnya dalam direktori `pengajaran`.
 
