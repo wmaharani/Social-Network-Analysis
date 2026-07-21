@@ -6,7 +6,7 @@ Repositori ini berisi bahan ajar, kode, dan riset tentang analisis jaringan sosi
 
 1. [Pengantar](#pengantar)
 2. [Pengajaran](#pengajaran)
-3. [Kode](#kode)
+3. [Notebooks](#notebooks)
 4. [Penelitian Terkait](#penelitian-terkait)
 5. [Kontribusi](#kontribusi)
 6. [Lisensi](#lisensi)
